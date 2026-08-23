@@ -1,0 +1,12 @@
+To run this project, you'll need the following Python libraries
+
+- python>=3.8
+- kagglehub
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- joblib
+- shap
+
